@@ -1,7 +1,7 @@
 {
     
     "visit":{
-        "qr_status": "#FF0000",
+        "qr_status": true,
         "nombre": "John Sambrano Doe",
         " dni_ruc":"78954221",
         "fecha_inicio":"26/10/2023",
