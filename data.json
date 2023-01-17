@@ -1,0 +1,22 @@
+{
+    
+    "visit":{
+        "qr-status": "#FF0000",
+        "nombre": "John Sambrano Doe",
+        " dni-ruc":"78954221",
+        "fecha-inicio":"26/10/2023",
+        "fecha-fin":"26/10/2023",
+        "placas":"FEU-597",
+        "zona-destino":"El Lorem Ipsum fue concebido.",
+        "area-destino":"El Lorem Ipsum fue concebido.",
+        "autorizado":"John Sambrano Doe",
+        "brevete":"https://wallpaperaccess.com/full/317501.jpg",
+        "tarjeta-propiedad":"https://wallpaperaccess.com/full/317501.jpg",
+        "soat":"https://wallpaperaccess.com/full/317501.jpg",
+        "dni":"https://wallpaperaccess.com/full/317501.jpg",
+        "revision-tecnica":"https://wallpaperaccess.com/full/317501.jpg",
+        "sctr":"https://wallpaperaccess.com/full/317501.jpg",
+        "observacion":"El Lorem Ipsum fue concebido como un texto de relleno, formateado de una cierta manera para permitir la presentación de elementos gráficos en documentos"
+    }
+
+}
