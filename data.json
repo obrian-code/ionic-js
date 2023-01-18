@@ -3,7 +3,7 @@
     "visit":{
         "qr_status": true,
         "nombre": "John Sambrano Doe",
-        " dni_ruc":"78954221",
+        "dni_ruc":"78954221",
         "fecha_inicio":"26/10/2023",
         "fecha_fin":"26/10/2023",
         "placas":"FEU-597",
@@ -14,7 +14,7 @@
         "tarjeta_propiedad":"https://wallpaperaccess.com/full/317501.jpg",
         "soat":"https://wallpaperaccess.com/full/317501.jpg",
         "dni":"https://wallpaperaccess.com/full/317501.jpg",
-        "revision-tecnica":"https://wallpaperaccess.com/full/317501.jpg",
+        "revision_tecnica":"https://wallpaperaccess.com/full/317501.jpg",
         "sctr":"https://wallpaperaccess.com/full/317501.jpg",
         "observacion":"El Lorem Ipsum fue concebido como un texto de relleno, formateado de una cierta manera para permitir la presentación de elementos gráficos en documentos"
     }
